@@ -14,4 +14,4 @@ The proposed repository contains ADM Homework 4 2022/2023 carried out by group #
 3. **Image.jpg**:
 > Just an image in our notebook.
 ### Notebook link
-in case there is any problem with the visualization of the main.ipynb file, here a [link](https://nbviewer.org/github/MattiaCastaldo/Homework-4/blob/main/main.ipynb#) on nbviewer.org of our notebook.
+in case there is any problem with the visualization of the main.ipynb file, here a [link](https://nbviewer.org/github/MattiaCastaldo/ADM-Homework-4/blob/main/main.ipynb) on nbviewer.org of our notebook.
